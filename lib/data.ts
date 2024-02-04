@@ -38,21 +38,21 @@ export const links = [
 export const experiencesData = [
   {
     title: "Software Developer Intern",
-    description: " Magneto IT Solutions<br>Built APIs, applied JavaScript, used SQL, managed e-commerce<br>inventory, and developed email functionality during an internship.",
+    description: " Magneto IT Solutions"<br>"Built APIs, applied JavaScript, used SQL, managed e-commerce"<br>"inventory, and developed email functionality during an internship.",
     location: "Ahmedabad, Gujarat",
     icon: React.createElement(FaReact),
     date: "Dec 2019 - May 2020",
   },
   {
     title: "Frontend Web Developer ",
-    description: " Canara Bank<br>Followed SDLC, developed APIs, ensured compatibility, participated in Agile, translated<br>designs into code, optimized performance, and utilized CI/CD pipelines.",
+    description: " Canara Bank"<br>"Followed SDLC, developed APIs, ensured compatibility, participated in Agile, translated"<br>"designs into code, optimized performance, and utilized CI/CD pipelines.",
     location: "Ahmedabad, Gujarat",
     icon: React.createElement(FaReact),
     date: "May 2020 - May 2021",
   },
   {
     title: "Frontend Web Developer",
-    description: " InsyghtAi<br>Developed and maintained web applications using modern technologies, improved<br>code quality, and collaborated with teams for usability and integration.",
+    description: " InsyghtAi"<br>"Developed and maintained web applications using modern technologies, improved"<br>"code quality, and collaborated with teams for usability and integration.",
     location: "Toronto, Ontario",
     icon: React.createElement(FaReact),
     date: "Aug 2021 - Present",
