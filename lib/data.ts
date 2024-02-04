@@ -38,10 +38,10 @@ export const links = [
 export const experiencesData = [
   {
     title: "Software Developer Intern",
-    description: "Company: Magneto IT Solutions",
-    location: "Ahmedabad, Gujarat 
-                Built APIs, applied JavaScript, used SQL, managed e-commerce
-              inventory, and developed email functionality during an internship.",
+    description: "Company: Magneto IT Solutions
+                  Built APIs, applied JavaScript, used SQL, managed e-commerce
+                  inventory, and developed email functionality during an internship.",
+    location: "Ahmedabad, Gujarat",
     icon: React.createElement(FaReact),
     date: "Dec 2019 - May 2020",
   },
