@@ -69,42 +69,42 @@ export const projectsData = [
   {
     title:"Interactive Map",
     description:
-      "An interactive magzine designed in Adobe Indesign showing population of provinces of Canada when hovered",
+      "An interactive magazine designed in Adobe Indesign showing the population of provinces of Canada when hovered",
     tags: ["Adobe Indesign"],
     imageUrl: corpcommentImg,
   },
   {
     title: "Business Magzine",
     description:
-      "An interactive magzine designed with side menu bar and scrolling text",
+      "An interactive magazine designed with side menu bar and scrolling text",
       tags: ["Adobe Indesign"],
     imageUrl: rmtdevImg,
   },
   {
     title: "Magazine with pop-out video",
     description:
-      "An interactive magazine designed with pop out video and audio",
+      "An interactive magazine designed with pop-out video and audio",
       tags: ["Adobe Indesign"],
     imageUrl: wordanalyticsImg,
   },
   {
-    title: "Eagle Eye Drone Based Thermal Testing Kit",
+    title: "Eagle Eye Drone-Based Thermal Testing Kit",
     description:
-      "Created a drone based thermal testing kit",
-      tags: ["Ardino"],
+      "Created a drone-based thermal testing kit",
+      tags: ["Arduino"],
     imageUrl: thermal,
   },
   {
     title: "Smart Steering Wheel",
     description:
-      "A steering wheel made to verify details of registered driver before engine is started",
+      "A steering wheel made to verify details of the registered driver before the engine is started",
       tags: ["RFID"],
     imageUrl: steeringwheel,
   },
   {
-    title: "Crowd Detection using drone",
+    title: "Crowd Detection using Drone",
     description:
-      "A software developed to predict sudden change in crowd to avoid conflict",
+      "A software developed to predict sudden change in the crowd to avoid conflict",
       tags: ["K-mean"],
     imageUrl: drone,
   },
