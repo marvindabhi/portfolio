@@ -38,21 +38,21 @@ export const links = [
 export const experiencesData = [
   {
     title: "Software Developer Intern",
-    description: "Magneto IT Solutions",
+    description: "Company: Magneto IT Solutions",
     location: "Ahmedabad, Gujarat",
     icon: React.createElement(FaReact),
     date: "Dec 2019 - May 2020",
   },
   {
     title: "Frontend Web Developer ",
-    description: "Canara Bank",
+    description: "Company: Canara Bank",
     location: "Ahmedabad, Gujarat",
     icon: React.createElement(FaReact),
     date: "May 2020 - May 2021",
   },
   {
     title: "Frontend Web Developer",
-    description: "InsyghtAi",
+    description: "Company: InsyghtAi",
     location: "Toronto, Ontario",
     icon: React.createElement(FaReact),
     date: "Aug 2021 - Present",
