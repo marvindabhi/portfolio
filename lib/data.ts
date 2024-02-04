@@ -37,41 +37,24 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Training and Placement Co-ordinator",
-    location: "Anand,Gujarat",
-    description:"Mapped out training plans and schedules, designed and developed training programs",
-    icon: React.createElement(FaReact),
-    date: "June 2019 - Dec 2019",
-  },
-  {
     title: "Software Developer Intern",
-    location: "Ahemdabad,Gujarat",
-    description:"Produced comprehensive functional and technical documentation for all applications, showcasing problem solving and debugging skills throughout the development lifecycle",
+    location: "Ahmedabad, Gujarat",
     icon: React.createElement(FaReact),
     date: "Dec 2019 - May 2020",
   },
   {
     title: "Frontend Web Developer ",
-    location: "Surat,Gujarat",
-    description:"Innovated optimized landing pages in HTML and CSS, ensuring seamless integration and cross-browser compatibility",
+    location: "Ahmedabad, Gujarat",
     icon: React.createElement(FaReact),
     date: "May 2020 - May 2021",
   },
   {
-    title: "Frontend Web Developer Intern",
-    location: "Toronto,Ontario",
-    description:"Designed User Interface &amp; User Experience for marketing websites, resulting in 26% increase in website traffic",
+    title: "Frontend Web Developer",
+    location: "Toronto, Ontario",
     icon: React.createElement(FaReact),
-    date: "Aug 2022 - Oct 2022",
+    date: "Aug 2021 - Present",
   },
-  {
-    title: "Freelancer",
-    location: "Toronto,Ontario",
-    description:"Developed 2 portfolio website, developed and debugged an exisiting client website",
-    icon: React.createElement(FaReact),
-    date: "Oct 2022 - present",
-  },
-] as const;
+  ] as const;
 
 export const projectsData = [
   {
