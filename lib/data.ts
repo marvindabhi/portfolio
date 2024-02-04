@@ -39,20 +39,26 @@ export const experiencesData = [
   {
     title: "Software Developer Intern",
     description: "Company: Magneto IT Solutions",
-    location: "Ahmedabad, Gujarat",
+    location: "Ahmedabad, Gujarat 
+                Built APIs, applied JavaScript, used SQL, managed e-commerce
+              inventory, and developed email functionality during an internship.",
     icon: React.createElement(FaReact),
     date: "Dec 2019 - May 2020",
   },
   {
     title: "Frontend Web Developer ",
-    description: "Company: Canara Bank",
+    description: "Company: Canara Bank
+                  Followed SDLC, developed APIs, ensured compatibility, participated in Agile, translated
+                  designs into code, optimized performance, and utilized CI/CD pipelines.",
     location: "Ahmedabad, Gujarat",
     icon: React.createElement(FaReact),
     date: "May 2020 - May 2021",
   },
   {
     title: "Frontend Web Developer",
-    description: "Company: InsyghtAi",
+    description: "Company: InsyghtAi
+                  Developed and maintained web applications using modern technologies, improved 
+                  code quality, and collaborated with teams for usability and integration.",
     location: "Toronto, Ontario",
     icon: React.createElement(FaReact),
     date: "Aug 2021 - Present",
